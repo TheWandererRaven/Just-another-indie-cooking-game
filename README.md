@@ -4,11 +4,13 @@ Hi!
 
 I will use this repository to work on my game with the same title.
 
-So far I only have a Game Jolt page for the game:
+If you will be looking at the code I have no problem but I encourage you to play the game first as for this will spil some secrets and stuff about the game.
 
+So far I only have a Game Jolt page for the game:
+https://gamejolt.com/games/ligma/384044
 
 By far this game has...nothing, I'm currently doing the planning
-Here's the list of things I have to do, pretty much in chronological order py phases:
+Here's the list of things I have to do, pretty much in chronological order by phases:
 
 1. Basic functionality (Player, Fries & Burgers)
 	 - [ ] Start by doing the design for the mechanics and gameplay
