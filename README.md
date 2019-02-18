@@ -14,9 +14,9 @@ Here's the list of things I have to do, pretty much in chronological order by ph
 
 1. Basic functionality (Player, Fries & Burgers)
 	 - [ ] Start by doing the design for the mechanics and gameplay
-		 - [ ] Player movement
+		 - [X] Player movement
 	   - [ ] Player/object pick up & drop mechanics
-	 	 - [ ] Machine/food cooking mechanic
+	 	 - [X] Machine/food cooking mechanic
 	 - [ ] Proceed to make the game models
 	 - [ ] Prepare the scene and other sweaks for Unity
 	 - [ ] Add the models to Unity and arrange them on the scene so it matches the plans I have for the spaces, I'll put the required hitboxes for the models and the worlspace
@@ -33,3 +33,5 @@ Here's the list of things I have to do, pretty much in chronological order by ph
    - [ ] Adjust if needed
    
 Up to this point there will be no animations, detailed lighning nor more rooms
+
+btw, ligma.
