@@ -1,0 +1,41 @@
+###
+# Unity folders and files
+###
+Just another indie cooking game/[Aa]ssets/AssetStoreTools*
+Just another indie cooking game/[Bb]uild/
+Just another indie cooking game/[Ll]ibrary/
+Just another indie cooking game/[Ll]ocal[Cc]ache/
+Just another indie cooking game/[Oo]bj/
+Just another indie cooking game/[Tt]emp/
+Just another indie cooking game/[Uu]nityGenerated/
+# file on crash reports
+Just another indie cooking game/sysinfo.txt
+# Unity3D generated meta files
+Just another indie cooking game/*.pidb.meta
+
+###
+# VS/MD solution and project files
+###
+Just another indie cooking game/[Ee]xportedObj/
+Just another indie cooking game/*.booproj
+Just another indie cooking game/*.csproj
+Just another indie cooking game/*.sln
+Just another indie cooking game/*.suo
+Just another indie cooking game/*.svd
+Just another indie cooking game/*.unityproj
+Just another indie cooking game/*.user
+Just another indie cooking game/*.userprefs
+Just another indie cooking game/*.pidb
+Just another indie cooking game/.DS_Store
+
+###
+# OS generated
+###
+Just another indie cooking game/.DS_Store
+Just another indie cooking game/.DS_Store?
+Just another indie cooking game/._*
+Just another indie cooking game/.Spotlight-V100
+Just another indie cooking game/.Trashes
+Just another indie cooking game/Icon?
+Just another indie cooking game/ehthumbs.db
+Just another indie cooking game/Thumbs.db
